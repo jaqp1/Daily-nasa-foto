@@ -1,4 +1,4 @@
-# Everyday, dayli stunning views
+# Everyday, daily stunning views
 
 ## Features
 
