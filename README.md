@@ -1,8 +1,30 @@
-# React + Vite
+# Everyday, dayli stunning views
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Fetching photo directly from NASA for you to enjoy
+- Showing the current date, name of captured object and short description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+![App Screenshot](https://github.com/jaqp1/Daily-nasa-foto/blob/main/Zrzut%20ekranu%202024-12-06%20212529.png?raw=true)
+
+![App Screenshot](https://github.com/jaqp1/Daily-nasa-foto/blob/main/Zrzut%20ekranu%202024-12-06%20212540.png?raw=true)
+
+
+## Tech Stack
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- React
+
+- Netlify
+  
+## Authors
+
+- [@jaqp1](https://github.com/jaqp1)
+
